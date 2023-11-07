@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Author: Tristan Seto
+// Author: Tristan Seto 
 // Date: 2023-11-07
 // Inspired by the following YouTube video: https://youtu.be/SpNxksyYMeA?si=Scpf4ZHDY8B9mjZ2
 // Prompt: Find all pairs of integer numbers {a, b, c} such that 2 < a * b * c < 7
