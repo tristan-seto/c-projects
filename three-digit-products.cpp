@@ -1,8 +1,10 @@
 #include <iostream>
 
+// Author: Tristan Seto
+// Date: 2023-11-07
 // Inspired by the following YouTube video: https://youtu.be/SpNxksyYMeA?si=Scpf4ZHDY8B9mjZ2
 // Prompt: Find all pairs of integer numbers {a, b, c} such that 2 < a * b * c < 7
-// This program will find all the ordered pairs (a, b, c) such that the product satisfies the conditions imposed by the user.
+// Description: This program will find all the ordered pairs (a, b, c) such that the product satisfies the conditions imposed by the user.
 
 int main(){
 
